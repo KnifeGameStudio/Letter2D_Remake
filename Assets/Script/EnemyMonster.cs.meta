@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6ffee4d2fb84a3a44abea955bf0d44ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SP: {instanceID: 0}
+  - movePos: {instanceID: 0}
+  - leftDownPos: {instanceID: 0}
+  - rightUpPos: {instanceID: 0}
+  - Mons0: {fileID: 21300000, guid: a38110d962a9a1d4285d7a212aaf1d0c, type: 3}
+  - Mons1: {fileID: 21300000, guid: 76a32dba523b27942ab59bab911e4218, type: 3}
+  - Mons2: {fileID: 21300000, guid: 7d6f7a4b80321934386c6e05ced5878a, type: 3}
+  - Mons3: {fileID: 21300000, guid: a1a4ed63fd8c6b043b3b56fc532eb285, type: 3}
+  - MonsDead: {fileID: 21300000, guid: cf176cfe0c4edcf4989f9087a0111ac6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
